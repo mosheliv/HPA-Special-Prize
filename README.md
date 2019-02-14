@@ -64,3 +64,4 @@ python3 /opt/intel/computer_vision_sdk/deployment_tools/model_optimizer/mo_tf.py
 [(repo)keras-shufflenet](https://github.com/scheckmedia/keras-shufflenet)
 
 [(paper)ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)
+[Trents iterative stratification](https://github.com/trent-b/iterative-stratification)
